@@ -16,7 +16,15 @@
  [Relations](schema/2010/01/LexGrid/relations.xsd)
  [Valuesets](schema/2010/01/LexGrid/valuesets.xsd)
  [Versions](schema/2010/01/LexGrid/versions.xsd)
-####  REST
+####  LexGrid/REST 2010/01
+ [Builtins](schema/2010/01/LexGrid/REST/builtins.xsd)
+ [CodingSchemes](schema/2010/01/LexGrid/REST/codingSchemes.xsd)
+ [Commontypes](schema/2010/01/LexGrid/REST/commonTypes.xsd)
+ [Concepts](schema/2010/01/LexGrid/REST/concepts.xsd)
+ [Naming](schema/2010/01/LexGrid/REST/naming.xsd)
+ [Relations](schema/2010/01/LexGrid/REST/relations.xsd)
+ [Valuesets](schema/2010/01/LexGrid/REST/valuesets.xsd)
+ [Versions](schema/2010/01/LexGrid/REST/versions.xsd)
  
 ### LexOnt 2010/01
   [CodingSchemeManifest](schema/2010/01/LexOnt/CodingSchemeManifest.xsd)
