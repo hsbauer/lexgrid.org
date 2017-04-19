@@ -1,5 +1,5 @@
 
-###LexBIG 2010/01
+### LexBIG 2010/01
 [Collections](schema/2010/01/LexBIG/Collections.xsd)
 [Core](schema/2010/01/LexBIG/Core.xsd)
 [InterfaceElements](schema/2010/01/LexBIG/InterfaceElements.xsd)
