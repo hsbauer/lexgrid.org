@@ -10,10 +10,14 @@
 
  [Builtins](schema/2010/01/LexGrid/builtins.xsd)
  [CodingSchemes](schema/2010/01/LexGrid/codingSchemes.xsd)
- [Commontypes](schema/2010/01/LexGrid/commontypes.xsd)
+ [Commontypes](schema/2010/01/LexGrid/commonTypes.xsd)
  [Concepts](schema/2010/01/LexGrid/concepts.xsd)
  [Naming](schema/2010/01/LexGrid/naming.xsd)
  [Relations](schema/2010/01/LexGrid/relations.xsd)
  [Valuesets](schema/2010/01/LexGrid/valuesets.xsd)
  [Versions](schema/2010/01/LexGrid/versions.xsd)
+####  REST
+ 
+### LexOnt 2010/01
+  [CodingSchemeManifest](schema/2010/01/LexOnt/CodingSchemeManifest.xsd)
 
