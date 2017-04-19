@@ -5,6 +5,17 @@
  [InterfaceElements](schema/2010/01/LexBIG/InterfaceElements.xsd)
  [NCIHistory](schema/2010/01/LexBIG/NCIHistory.xsd)
  [enums](schema/2010/01/LexBIG/enums.xsd)
+####master.extension
+[HL7LoadPreferences](schema/2010/01/LexBIG/master.extension/HL7LoadPreferences.xsd)
+[LoadPreferences](schema/2010/01/LexBIG/master.preferences/LoadPreferences.xsd)
+[MetaLoadPreferences](schema/2010/01/LexBIG/master.preferences/MetaLoadPreferences.xsd)
+[OBOLoadPreferences](schema/2010/01/LexBIG/master.preferences/OBOLoadPreferences.xsd)
+[OWLLoadPreferences](schema/2010/01/LexBIG/master.preferences/OWLLoadPreferences.xsd)
+[SemNetLoadPreferences](schema/2010/01/LexBIG/master.preferences/SemNetLoadPreferences.xsd)
+[UMLSLoadPreferences](schema/2010/01/LexBIG/master.preferences/UMLSLoadPreferences.xsd)
+[XMLLoadPreferences](schema/2010/01/LexBIG/master.preferences/XMLLoadPreferences.xsd)
+####master.preferences
+[extension](schema/2010/01/LexBIG/master.preferences/extension.xsd)
 
 ### LexGrid 2010/01
 
