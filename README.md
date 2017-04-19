@@ -1,2 +1,2 @@
 
-[Collections](master/schema/2010/01/LexBIG/Collections.xsd)
+[Collections](schema/2010/01/LexBIG/Collections.xsd)
