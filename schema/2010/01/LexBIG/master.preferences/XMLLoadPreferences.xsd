@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:lbPreferencesXML="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/XMLLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/XMLLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesXML="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/XMLLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/XMLLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="XMLLoaderPreferences" type="lbPreferencesXML:XMLLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG XML loader.</xs:documentation>

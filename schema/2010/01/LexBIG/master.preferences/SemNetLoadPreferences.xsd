@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xs:schema xmlns:lbPreferencesSemNet="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesSemNet="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="SemNetLoaderPreferences" type="lbPreferencesSemNet:SemNetLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG UMLS Semantic Network loader.</xs:documentation>

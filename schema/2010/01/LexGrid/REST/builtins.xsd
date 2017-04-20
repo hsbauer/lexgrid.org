@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns="http://LexGrid.org/schema/2010/01/LexGrid/REST/builtins" 
+<xs:schema xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/builtins" 
                        xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-                       xmlns:lgBuiltin="http://LexGrid.org/schema/2010/01/LexGrid/builtins"
-                       elementFormDefault="qualified" targetNamespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/builtins"> 
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
+                       xmlns:lgBuiltin="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins"
+                       elementFormDefault="qualified" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/builtins"> 
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
 
         <xs:annotation>
                 <xs:documentation>

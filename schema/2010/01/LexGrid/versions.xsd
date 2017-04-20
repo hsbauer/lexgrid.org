@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgCommon="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="http://LexGrid.org/schema/2010/01/LexGrid/builtins" xmlns:lgCS="http://LexGrid.org/schema/2010/01/LexGrid/codingSchemes" xmlns:lgVD="http://LexGrid.org/schema/2010/01/LexGrid/valueSets" xmlns="http://LexGrid.org/schema/2010/01/LexGrid/versions" targetNamespace="http://LexGrid.org/schema/2010/01/LexGrid/versions" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" xmlns:lgCS="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/codingSchemes" xmlns:lgVD="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/valueSets" xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/versions" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/versions" elementFormDefault="qualified">
 
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/codingSchemes" schemaLocation="codingSchemes.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/valueSets" schemaLocation="valueSets.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/codingSchemes" schemaLocation="codingSchemes.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/valueSets" schemaLocation="valueSets.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
 
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> versions  -->

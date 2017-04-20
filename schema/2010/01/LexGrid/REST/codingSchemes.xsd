@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://LexGrid.org/schema/2010/01/LexGrid/REST/codingSchemes" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgBuiltin="http://LexGrid.org/schema/2010/01/LexGrid/builtins"
-    xmlns:lgRESTCon="http://LexGrid.org/schema/2010/01/LexGrid/REST/concepts" xmlns:lgCommon="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" xmlns:lgRESTCommon="http://LexGrid.org/schema/2010/01/LexGrid/REST/commonTypes"
-    xmlns:lgRESTNaming="http://LexGrid.org/schema/2010/01/LexGrid/REST/naming" xmlns:lgRESTRel="http://LexGrid.org/schema/2010/01/LexGrid/REST/relations" targetNamespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/codingSchemes" elementFormDefault="qualified">
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/codingSchemes" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgBuiltin="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins"
+    xmlns:lgRESTCon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/concepts" xmlns:lgCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" xmlns:lgRESTCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/commonTypes"
+    xmlns:lgRESTNaming="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/naming" xmlns:lgRESTRel="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/relations" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/codingSchemes" elementFormDefault="qualified">
 
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/commonTypes" schemaLocation="commonTypes.xsd"/>
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes.xsd"/>
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/concepts" schemaLocation="concepts.xsd"/>
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/relations" schemaLocation="relations.xsd"/>
-    <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/naming" schemaLocation="naming.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/commonTypes" schemaLocation="commonTypes.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/concepts" schemaLocation="concepts.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/relations" schemaLocation="relations.xsd"/>
+    <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/naming" schemaLocation="naming.xsd"/>
 
     <xs:annotation>
         <xs:documentation>

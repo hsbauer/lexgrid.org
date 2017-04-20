@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns="http://LexGrid.org/schema/2010/01/LexGrid/REST/valueSets" 
+<xs:schema xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/valueSets" 
         xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-        xmlns:lgBuiltin="http://LexGrid.org/schema/2010/01/LexGrid/builtins" 
-        xmlns:lgCommon="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" 
-        xmlns:lgRESTCommon="http://LexGrid.org/schema/2010/01/LexGrid/REST/commonTypes" 
-        xmlns:lgRESTCon="http://LexGrid.org/schema/2010/01/LexGrid/REST/concepts" 
-        xmlns:lgRESTCS="http://LexGrid.org/schema/2010/01/LexGrid/REST/codingSchemes" 
-        xmlns:lgRESTRel="http://LexGrid.org/schema/2010/01/LexGrid/REST/relations" 
-        xmlns:lgRESTNaming="http://LexGrid.org/schema/2010/01/LexGrid/REST/naming" 
-        xmlns:lgVD="http://LexGrid.org/schema/2010/01/LexGrid/valueSets"
-        xmlns:lgRESTVD="http://LexGrid.org/schema/2010/01/LexGrid/REST/valueSets"
-        xmlns:lbColl="http://LexGrid.org/schema/LexBIG/2010/01/Collections"
-        elementFormDefault="qualified" targetNamespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/valueSets">
+        xmlns:lgBuiltin="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" 
+        xmlns:lgCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" 
+        xmlns:lgRESTCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/commonTypes" 
+        xmlns:lgRESTCon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/concepts" 
+        xmlns:lgRESTCS="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/codingSchemes" 
+        xmlns:lgRESTRel="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/relations" 
+        xmlns:lgRESTNaming="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/naming" 
+        xmlns:lgVD="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/valueSets"
+        xmlns:lgRESTVD="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/valueSets"
+        xmlns:lbColl="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2010/01/Collections"
+        elementFormDefault="qualified" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/valueSets">
 
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/commonTypes" schemaLocation="commonTypes.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/commonTypes.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/naming" schemaLocation="naming.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/concepts" schemaLocation="concepts.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/codingSchemes" schemaLocation="codingSchemes.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/REST/relations" schemaLocation="relations.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
-        <xs:import namespace="http://LexGrid.org/schema/2010/01/LexGrid/valueSets" schemaLocation="http://LexGrid.org/schema/2010/01/LexGrid/valueSets.xsd"/>
-        <!--xs:import namespace="http://LexGrid.org/schema/LexBIG/2010/01/Collections" schemaLocation="../../../lbModel/master/Collections.xsd"/-->
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/commonTypes" schemaLocation="commonTypes.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/naming" schemaLocation="naming.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/concepts" schemaLocation="concepts.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/codingSchemes" schemaLocation="codingSchemes.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/REST/relations" schemaLocation="relations.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins.xsd"/>
+        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/valueSets" schemaLocation="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/valueSets.xsd"/>
+        <!--xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2010/01/Collections" schemaLocation="../../../lbModel/master/Collections.xsd"/-->
 
         <xs:annotation>
                 <xs:documentation>
