@@ -41,6 +41,7 @@
   [CodingSchemeManifest](schema/2010/01/LexOnt/CodingSchemeManifest.xsd)
   
 # LexBIG
+ [LoadPreferences](schema/LexBIG/2009/01/Preferences/load/LoadPreferences.xsd)
  [HL7LoadPreferences](schema/LexBIG/2009/01/Preferences/load/HL7LoadPreferences.xsd)
  [MetaLoadPreferences](schema/LexBIG/2009/01/Preferences/load/MetaLoadPreferences.xsd)
  [OBOLoadPreferences](schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences.xsd)
