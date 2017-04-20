@@ -39,4 +39,13 @@
  
 # LexOnt 2010/01
   [CodingSchemeManifest](schema/2010/01/LexOnt/CodingSchemeManifest.xsd)
+  
+# LexBIG
+ [HL7LoadPreferences](schema/LexBIG/2009/01/Preferences/load/HL7LoadPreferences.xsd)
+ [MetaLoadPreferences](schema/LexBIG/2009/01/Preferences/load/MetaLoadPreferences.xsd)
+ [OBOLoadPreferences](schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences.xsd)
+ [OWLLoadPreferences](schema/LexBIG/2009/01/Preferences/load/OWLLoadPreferences.xsd)
+ [SemNetLoadPreferences](schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences.xsd)
+ [UMLSLoadPreferences](schema/LexBIG/2009/01/Preferences/load/UMLSLoadPreferences.xsd)
+ [XMLLoadPreferences](schema/LexBIG/2009/01/Preferences/load/XMLLoadPreferences.xsd)
 
