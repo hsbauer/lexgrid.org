@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:lbPreferences="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://LexGrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" elementFormDefault="qualified">
+<xs:schema xmlns:lbPreferences="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" elementFormDefault="qualified">
 	<xs:element name="LoaderPreferences" type="lbPreferences:LoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by all loaders.</xs:documentation>
