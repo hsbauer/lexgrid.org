@@ -34,7 +34,7 @@
  [Concepts](schema/2010/01/LexGrid/REST/concepts.xsd)
  [Naming](schema/2010/01/LexGrid/REST/naming.xsd)
  [Relations](schema/2010/01/LexGrid/REST/relations.xsd)
- [Valuesets](schema/2010/01/LexGrid/REST/valuesets.xsd)
+ [Valuesets](schema/2010/01/LexGrid/REST/valueSets.xsd)
  [Versions](schema/2010/01/LexGrid/REST/versions.xsd)
  
 ### LexOnt 2010/01
