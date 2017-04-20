@@ -1,5 +1,5 @@
 
-### LexBIG 2010/01
+# LexBIG 2010/01
  [Collections](schema/2010/01/LexBIG/Collections.xsd)
  [Core](schema/2010/01/LexBIG/Core.xsd)
  [InterfaceElements](schema/2010/01/LexBIG/InterfaceElements.xsd)
@@ -17,7 +17,7 @@
 #### LexBIG/master.extension 2010/01
 [extension](schema/2010/01/LexBIG/master.extension/extension.xsd)
 
-### LexGrid 2010/01
+# LexGrid 2010/01
 
  [Builtins](schema/2010/01/LexGrid/builtins.xsd)
  [CodingSchemes](schema/2010/01/LexGrid/codingSchemes.xsd)
@@ -37,6 +37,6 @@
  [Valuesets](schema/2010/01/LexGrid/REST/valueSets.xsd)
  [Versions](schema/2010/01/LexGrid/REST/versions.xsd)
  
-### LexOnt 2010/01
+# LexOnt 2010/01
   [CodingSchemeManifest](schema/2010/01/LexOnt/CodingSchemeManifest.xsd)
 
