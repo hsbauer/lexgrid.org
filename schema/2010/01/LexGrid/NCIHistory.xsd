@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-        xmlns:lgCommon="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes"
-        xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/NCIHistory" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/NCIHistory" elementFormDefault="qualified">
-        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
+        xmlns:lgCommon="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes"
+        xmlns="lexzepplin.tk/schema/2010/01/LexGrid/NCIHistory" targetNamespace="lexzepplin.tk/schema/2010/01/LexGrid/NCIHistory" elementFormDefault="qualified">
+        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
 
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> NCIChangeTypes  -->

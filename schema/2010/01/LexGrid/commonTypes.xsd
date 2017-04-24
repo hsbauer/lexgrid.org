@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" xmlns:lgNaming="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/naming" xmlns:lgVer="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/versions" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/commonTypes">
+<xs:schema xmlns="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgNaming="lexzepplin.tk/schema/2010/01/LexGrid/naming" xmlns:lgVer="lexzepplin.tk/schema/2010/01/LexGrid/versions" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes">
 
-        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
-        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/naming" schemaLocation="naming.xsd"/>
-        <xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/2010/01/LexGrid/versions" schemaLocation="versions.xsd"/>
+        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
+        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/naming" schemaLocation="naming.xsd"/>
+        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/versions" schemaLocation="versions.xsd"/>
 
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> commonTypes  -->

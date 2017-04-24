@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:lbPreferencesOWL="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/OWLLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/OWLLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="https://hsbauer.github.io/lexgrid.org/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesOWL="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OWLLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OWLLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="OWLLoaderPreferences" type="lbPreferencesOWL:OWLLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG OWL loader.</xs:documentation>
