@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:lbPreferencesUMLS="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/UMLSLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/UMLSLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesUMLS="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/UMLSLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/UMLSLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="UMLSLoaderPreferences" type="lbPreferencesUMLS:UMLSLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG UMLS loaders.</xs:documentation>

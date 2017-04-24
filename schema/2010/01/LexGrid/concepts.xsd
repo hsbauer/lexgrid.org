@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns="lexzepplin.tk/schema/2010/01/LexGrid/concepts" xmlns:lgRel="lexzepplin.tk/schema/2010/01/LexGrid/relations"
-        xmlns:lgBuiltin="lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCommon="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="lexzepplin.tk/schema/2010/01/LexGrid/concepts">
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/relations" schemaLocation="relations.xsd"/>
+<xs:schema xmlns="http://lexzepplin.tk/schema/2010/01/LexGrid/concepts" xmlns:lgRel="http://lexzepplin.tk/schema/2010/01/LexGrid/relations"
+        xmlns:lgBuiltin="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCommon="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://lexzepplin.tk/schema/2010/01/LexGrid/concepts">
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/relations" schemaLocation="relations.xsd"/>
         
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> concepts  -->

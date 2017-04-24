@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xs:schema xmlns:lbPreferencesSemNet="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesSemNet="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/SemNetLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="SemNetLoaderPreferences" type="lbPreferencesSemNet:SemNetLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG UMLS Semantic Network loader.</xs:documentation>

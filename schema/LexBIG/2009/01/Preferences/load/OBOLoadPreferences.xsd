@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:lbPreferencesOBO="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences" elementFormDefault="qualified">
-	<xs:import namespace="lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
+<xs:schema xmlns:lbPreferencesOBO="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lbPreferences="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" targetNamespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/OBOLoadPreferences" elementFormDefault="qualified">
+	<xs:import namespace="http://lexzepplin.tk/schema/LexBIG/2009/01/Preferences/load/LoadPreferences" schemaLocation="LoadPreferences.xsd"/>
 	<xs:element name="OBOLoaderPreferences" type="lbPreferencesOBO:OBOLoaderPreferences">
 		<xs:annotation>
 			<xs:documentation>Represents source processing options recognized by the LexBIG OBO loader.</xs:documentation>

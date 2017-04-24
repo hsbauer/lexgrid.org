@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Thomas M Johnson (Mayo Foundation) -->
-<xs:schema xmlns="lexzepplin.tk/schema/2010/01/LexGrid/naming" xmlns:lgBuiltin="lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCommon="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="lexzepplin.tk/schema/2010/01/LexGrid/naming">
+<xs:schema xmlns="http://lexzepplin.tk/schema/2010/01/LexGrid/naming" xmlns:lgBuiltin="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCommon="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://lexzepplin.tk/schema/2010/01/LexGrid/naming">
 
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
         
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> naming  -->

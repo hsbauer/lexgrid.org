@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<xs:schema targetNamespace="lexzepplin.tk/schema/LexBIG/2010/01/enums" 
-	xmlns:enums="lexzepplin.tk/schema/LexBIG/2010/01/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema targetNamespace="http://lexzepplin.tk/schema/LexBIG/2010/01/enums" 
+	xmlns:enums="http://lexzepplin.tk/schema/LexBIG/2010/01/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xs:element name="PropertyType" type="enums:PropertyType"/>
 	<xs:complexType name="PropertyType">
 		<xs:annotation>

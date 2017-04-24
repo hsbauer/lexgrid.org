@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgCommon="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCS="lexzepplin.tk/schema/2010/01/LexGrid/codingSchemes" xmlns:lgVD="lexzepplin.tk/schema/2010/01/LexGrid/valueSets" xmlns="lexzepplin.tk/schema/2010/01/LexGrid/versions" targetNamespace="lexzepplin.tk/schema/2010/01/LexGrid/versions" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lgCommon="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" xmlns:lgBuiltin="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" xmlns:lgCS="http://lexzepplin.tk/schema/2010/01/LexGrid/codingSchemes" xmlns:lgVD="http://lexzepplin.tk/schema/2010/01/LexGrid/valueSets" xmlns="http://lexzepplin.tk/schema/2010/01/LexGrid/versions" targetNamespace="http://lexzepplin.tk/schema/2010/01/LexGrid/versions" elementFormDefault="qualified">
 
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/codingSchemes" schemaLocation="codingSchemes.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/valueSets" schemaLocation="valueSets.xsd"/>
-        <xs:import namespace="lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/builtins" schemaLocation="builtins.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/codingSchemes" schemaLocation="codingSchemes.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/valueSets" schemaLocation="valueSets.xsd"/>
+        <xs:import namespace="http://lexzepplin.tk/schema/2010/01/LexGrid/commonTypes" schemaLocation="commonTypes.xsd"/>
 
         <!-- ================================================= -->
         <!-- Package: <<XSDschema>> versions  -->
